@@ -5,7 +5,7 @@ email: iker_izagirre@hotmail.com
 description: >
   Blog creado para la actividad de Desarrollo de Aplicaciones en Red
 #baseurl: "/mere-blog-theme"
-baseurl: ""
+baseurl: "/ikerizaguirre"
 url: "https://ikerizaguirre.github.io"
 domain: ikerizaguirre.github.io
 permalink: pretty
